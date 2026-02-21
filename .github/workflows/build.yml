@@ -27,7 +27,7 @@ jobs:
       run: pkg server.js --targets node10-win-x64 --output dist/sales-system.exe
 
     - name: Upload artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: sales-system-win7
         path: dist/
