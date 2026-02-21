@@ -1,0 +1,1 @@
+{"name":"sales-system","version":"1.0.0","main":"server.js","bin":"server.js","dependencies":{"sql.js":"^1.8.0","express":"^4.17.1","body-parser":"^1.19.0","cors":"^2.8.5","dayjs":"^1.10.7"}}
